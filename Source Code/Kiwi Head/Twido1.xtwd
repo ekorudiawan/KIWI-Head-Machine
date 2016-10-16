@@ -1,0 +1,1982 @@
+<?xml version="1.0"?>
+  <TwidoApplication>
+    <FileVersion>5.0</FileVersion>
+    <SymbolTable>
+      <Symbol>
+        <Address>%Q0.0.14</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>AIR_ON</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>0</YAddress>
+        <ZAddress>14</ZAddress>
+        <ObjectType>18</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>2200</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%M20</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>AUTO_CYCLE</SymbolName>
+        <NumAddresses>1</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>20</XAddress>
+        <YAddress>-1</YAddress>
+        <ZAddress>-1</ZAddress>
+        <ObjectType>16</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1600</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%M215</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>AUTO_EMG</SymbolName>
+        <NumAddresses>1</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>215</XAddress>
+        <YAddress>-1</YAddress>
+        <ZAddress>-1</ZAddress>
+        <ObjectType>16</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1600</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%I0.0.3</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>A_MIN</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>0</YAddress>
+        <ZAddress>3</ZAddress>
+        <ObjectType>17</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1100</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%I0.0.2</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>A_PLUS</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>0</YAddress>
+        <ZAddress>2</ZAddress>
+        <ObjectType>17</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1100</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%I0.1.15</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>BACK_DOOR</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>1</YAddress>
+        <ZAddress>15</ZAddress>
+        <ObjectType>17</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1100</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%I0.0.5</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>B_MIN</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>0</YAddress>
+        <ZAddress>5</ZAddress>
+        <ObjectType>17</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1100</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%I0.0.4</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>B_PLUS</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>0</YAddress>
+        <ZAddress>4</ZAddress>
+        <ObjectType>17</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1100</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%Q0.2.2</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>CANCEL_JOB</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>2</YAddress>
+        <ZAddress>2</ZAddress>
+        <ObjectType>18</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>2200</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%Q0.0.8</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>CONVEYOR</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>0</YAddress>
+        <ZAddress>8</ZAddress>
+        <ObjectType>18</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>2200</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%Q0.0.2</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>CYL_A</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>0</YAddress>
+        <ZAddress>2</ZAddress>
+        <ObjectType>18</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>2200</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%Q0.0.3</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>CYL_B</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>0</YAddress>
+        <ZAddress>3</ZAddress>
+        <ObjectType>18</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>2200</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%Q0.0.4</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>CYL_C</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>0</YAddress>
+        <ZAddress>4</ZAddress>
+        <ObjectType>18</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>2200</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%Q0.0.5</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>CYL_D</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>0</YAddress>
+        <ZAddress>5</ZAddress>
+        <ObjectType>18</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>2200</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%Q0.0.6</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>CYL_E</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>0</YAddress>
+        <ZAddress>6</ZAddress>
+        <ObjectType>18</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>2200</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%Q0.0.7</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>CYL_F</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>0</YAddress>
+        <ZAddress>7</ZAddress>
+        <ObjectType>18</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>2200</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%I0.0.7</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>C_MIN</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>0</YAddress>
+        <ZAddress>7</ZAddress>
+        <ObjectType>17</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1100</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%I0.0.6</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>C_PLUS</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>0</YAddress>
+        <ZAddress>6</ZAddress>
+        <ObjectType>17</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1100</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%I0.0.9</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>D_MIN</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>0</YAddress>
+        <ZAddress>9</ZAddress>
+        <ObjectType>17</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1100</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%I0.0.8</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>D_PLUS</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>0</YAddress>
+        <ZAddress>8</ZAddress>
+        <ObjectType>17</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1100</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%I0.0.0</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>EMG2</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>0</YAddress>
+        <ZAddress>0</ZAddress>
+        <ObjectType>17</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1100</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%I0.0.22</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>EMG_STOP</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>0</YAddress>
+        <ZAddress>22</ZAddress>
+        <ObjectType>17</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1100</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%I0.0.11</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>E_MIN</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>0</YAddress>
+        <ZAddress>11</ZAddress>
+        <ObjectType>17</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1100</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%I0.0.10</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>E_PLUS</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>0</YAddress>
+        <ZAddress>10</ZAddress>
+        <ObjectType>17</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1100</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%M10</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>FULL_PRODUCT</SymbolName>
+        <NumAddresses>1</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>10</XAddress>
+        <YAddress>-1</YAddress>
+        <ZAddress>-1</ZAddress>
+        <ObjectType>16</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1600</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%I0.0.13</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>F_MIN</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>0</YAddress>
+        <ZAddress>13</ZAddress>
+        <ObjectType>17</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1100</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%I0.0.12</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>F_PLUS</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>0</YAddress>
+        <ZAddress>12</ZAddress>
+        <ObjectType>17</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1100</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%I0.0.19</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>PB_RESET</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>0</YAddress>
+        <ZAddress>19</ZAddress>
+        <ObjectType>17</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1100</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%I0.0.21</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>PB_START</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>0</YAddress>
+        <ZAddress>21</ZAddress>
+        <ObjectType>17</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1100</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%I0.0.20</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>PB_STOP</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>0</YAddress>
+        <ZAddress>20</ZAddress>
+        <ObjectType>17</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1100</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%M4</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>PRODUCT_AVAILABLE</SymbolName>
+        <NumAddresses>1</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>4</XAddress>
+        <YAddress>-1</YAddress>
+        <ZAddress>-1</ZAddress>
+        <ObjectType>16</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1600</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%M3</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>RESET_COMPLETE</SymbolName>
+        <NumAddresses>1</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>3</XAddress>
+        <YAddress>-1</YAddress>
+        <ZAddress>-1</ZAddress>
+        <ObjectType>16</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1600</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%M2</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>RESET_HOLD</SymbolName>
+        <NumAddresses>1</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>2</XAddress>
+        <YAddress>-1</YAddress>
+        <ZAddress>-1</ZAddress>
+        <ObjectType>16</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1600</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%Q0.2.3</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>RESET_PRINTER</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>2</YAddress>
+        <ZAddress>3</ZAddress>
+        <ObjectType>18</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>2200</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%M5</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>RESTART_FROM_PC</SymbolName>
+        <NumAddresses>1</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>5</XAddress>
+        <YAddress>-1</YAddress>
+        <ZAddress>-1</ZAddress>
+        <ObjectType>16</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1600</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%M163</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>SCANNER_FAIL</SymbolName>
+        <NumAddresses>1</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>163</XAddress>
+        <YAddress>-1</YAddress>
+        <ZAddress>-1</ZAddress>
+        <ObjectType>16</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1600</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%M162</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>SCANNER_PASS</SymbolName>
+        <NumAddresses>1</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>162</XAddress>
+        <YAddress>-1</YAddress>
+        <ZAddress>-1</ZAddress>
+        <ObjectType>16</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1600</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%I0.1.13</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>SENSOR_1</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>1</YAddress>
+        <ZAddress>13</ZAddress>
+        <ObjectType>17</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1100</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%I0.0.14</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>SENSOR_2</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>0</YAddress>
+        <ZAddress>14</ZAddress>
+        <ObjectType>17</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1100</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%I0.0.15</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>SENSOR_3</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>0</YAddress>
+        <ZAddress>15</ZAddress>
+        <ObjectType>17</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1100</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%I0.0.16</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>SENSOR_4</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>0</YAddress>
+        <ZAddress>16</ZAddress>
+        <ObjectType>17</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1100</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%I0.1.14</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>SENSOR_AIR</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>1</YAddress>
+        <ZAddress>14</ZAddress>
+        <ObjectType>17</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1100</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%I0.0.17</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>SENSOR_AKHIR</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>0</YAddress>
+        <ZAddress>17</ZAddress>
+        <ObjectType>17</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1100</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%I0.0.1</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>SENSOR_PINTU</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>0</YAddress>
+        <ZAddress>1</ZAddress>
+        <ObjectType>17</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1100</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%I0.0.18</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>SENSOR_REJECT_BIN</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>0</YAddress>
+        <ZAddress>18</ZAddress>
+        <ObjectType>17</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1100</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%I0.1.7</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>SIDE_DOOR</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>1</YAddress>
+        <ZAddress>7</ZAddress>
+        <ObjectType>17</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1100</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%Q0.2.4</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>START_PRINT</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>2</YAddress>
+        <ZAddress>4</ZAddress>
+        <ObjectType>18</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>2200</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%M0</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>STOP_HOLD</SymbolName>
+        <NumAddresses>1</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>-1</YAddress>
+        <ZAddress>-1</ZAddress>
+        <ObjectType>16</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1600</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%M1</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>STOP_TRIG</SymbolName>
+        <NumAddresses>1</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>1</XAddress>
+        <YAddress>-1</YAddress>
+        <ZAddress>-1</ZAddress>
+        <ObjectType>16</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1600</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%M11</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>TIMER_SENSOR4</SymbolName>
+        <NumAddresses>1</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>11</XAddress>
+        <YAddress>-1</YAddress>
+        <ZAddress>-1</ZAddress>
+        <ObjectType>16</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1600</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%Q0.0.13</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>TOWER_BLUE</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>0</YAddress>
+        <ZAddress>13</ZAddress>
+        <ObjectType>18</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>2200</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%Q0.0.12</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>TOWER_GREEN</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>0</YAddress>
+        <ZAddress>12</ZAddress>
+        <ObjectType>18</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>2200</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%Q0.0.10</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>TOWER_RED</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>0</YAddress>
+        <ZAddress>10</ZAddress>
+        <ObjectType>18</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>2200</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%Q0.0.11</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>TOWER_YEELOW</SymbolName>
+        <NumAddresses>3</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>0</XAddress>
+        <YAddress>0</YAddress>
+        <ZAddress>11</ZAddress>
+        <ObjectType>18</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>2200</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%M172</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>XA</SymbolName>
+        <NumAddresses>1</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>172</XAddress>
+        <YAddress>-1</YAddress>
+        <ZAddress>-1</ZAddress>
+        <ObjectType>16</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1600</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+      <Symbol>
+        <Address>%M154</Address>
+        <Attribute>$</Attribute>
+        <SymbolName>XB</SymbolName>
+        <NumAddresses>1</NumAddresses>
+        <NumAttributes>1</NumAttributes>
+        <XAddress>154</XAddress>
+        <YAddress>-1</YAddress>
+        <ZAddress>-1</ZAddress>
+        <ObjectType>16</ObjectType>
+        <OwnedBy>-1</OwnedBy>
+        <InfoFlags>5</InfoFlags>
+        <SortOrder>1600</SortOrder>
+        <SymbCreatedBy>1</SymbCreatedBy>
+        <Comment>$</Comment>
+      </Symbol>
+    </SymbolTable>
+    <Resources>
+      <MODEM>
+        <HAYES_INIT_COMMAND>$</HAYES_INIT_COMMAND>
+      </MODEM>
+      <AppTable>
+        <AppTableVersion>3</AppTableVersion>
+        <CompatibilityFlags>10</CompatibilityFlags>
+        <LevelChosen>255</LevelChosen>
+        <Password>$</Password>
+        <AppName>untitled</AppName>
+        <AppVersion>1</AppVersion>
+        <AppSignature>5554</AppSignature>
+        <AppMaxCycleTime>250</AppMaxCycleTime>
+        <AppMinCycleTime>0</AppMinCycleTime>
+        <Protection>0</Protection>
+        <Autoload>0</Autoload>
+        <AppReadyToRun>1</AppReadyToRun>
+        <LenListIdTableModBuffer>4409</LenListIdTableModBuffer>
+        <AppIntModBufferLength>22928</AppIntModBufferLength>
+        <AppMaxModsAllowed>1433</AppMaxModsAllowed>
+        <AppDiffLadderSize>0</AppDiffLadderSize>
+        <AppNumExtLabel>2</AppNumExtLabel>
+        <AppNumModsUsedInt>0</AppNumModsUsedInt>
+        <LangVersion>1</LangVersion>
+        <CompilerVersion>1</CompilerVersion>
+        <CompilerSettings>0</CompilerSettings>
+        <HardwarePartNumber>TWDLCAE40DRF</HardwarePartNumber>
+        <HardwareID>2233</HardwareID>
+        <HWOptionsStatus>68</HWOptionsStatus>
+        <AppTableChksum>61120</AppTableChksum>
+        <AppStructChksum>53354</AppStructChksum>
+        <HWOptionsPartNumber>TWDXCPRTC</HWOptionsPartNumber>
+      </AppTable>
+      <KWTable>
+      </KWTable>
+      <CfgTable>
+        <CfgTableVersion>6</CfgTableVersion>
+      </CfgTable>
+      <SwObjList>
+        <Timer>
+          <TMIndex>0</TMIndex>
+          <PresetValue>80</PresetValue>
+          <TimeBase>2</TimeBase>
+          <TimeType>0</TimeType>
+          <ModifyFlag>1</ModifyFlag>
+        </Timer>
+        <Timer>
+          <TMIndex>1</TMIndex>
+          <PresetValue>10</PresetValue>
+          <TimeBase>2</TimeBase>
+          <TimeType>0</TimeType>
+          <ModifyFlag>1</ModifyFlag>
+        </Timer>
+        <Timer>
+          <TMIndex>4</TMIndex>
+          <PresetValue>10</PresetValue>
+          <TimeBase>2</TimeBase>
+          <TimeType>0</TimeType>
+          <ModifyFlag>1</ModifyFlag>
+        </Timer>
+        <Timer>
+          <TMIndex>5</TMIndex>
+          <PresetValue>50</PresetValue>
+          <TimeBase>2</TimeBase>
+          <TimeType>0</TimeType>
+          <ModifyFlag>1</ModifyFlag>
+        </Timer>
+        <Timer>
+          <TMIndex>6</TMIndex>
+          <PresetValue>10</PresetValue>
+          <TimeBase>2</TimeBase>
+          <TimeType>0</TimeType>
+          <ModifyFlag>1</ModifyFlag>
+        </Timer>
+        <Timer>
+          <TMIndex>7</TMIndex>
+          <PresetValue>15</PresetValue>
+          <TimeBase>2</TimeBase>
+          <TimeType>0</TimeType>
+          <ModifyFlag>1</ModifyFlag>
+        </Timer>
+        <Timer>
+          <TMIndex>8</TMIndex>
+          <PresetValue>3</PresetValue>
+          <TimeBase>2</TimeBase>
+          <TimeType>0</TimeType>
+          <ModifyFlag>1</ModifyFlag>
+        </Timer>
+        <Timer>
+          <TMIndex>9</TMIndex>
+          <PresetValue>10</PresetValue>
+          <TimeBase>2</TimeBase>
+          <TimeType>0</TimeType>
+          <ModifyFlag>1</ModifyFlag>
+        </Timer>
+        <Timer>
+          <TMIndex>10</TMIndex>
+          <PresetValue>10</PresetValue>
+          <TimeBase>2</TimeBase>
+          <TimeType>0</TimeType>
+          <ModifyFlag>1</ModifyFlag>
+        </Timer>
+        <Timer>
+          <TMIndex>11</TMIndex>
+          <PresetValue>30</PresetValue>
+          <TimeBase>2</TimeBase>
+          <TimeType>0</TimeType>
+          <ModifyFlag>1</ModifyFlag>
+        </Timer>
+        <Timer>
+          <TMIndex>12</TMIndex>
+          <PresetValue>150</PresetValue>
+          <TimeBase>2</TimeBase>
+          <TimeType>0</TimeType>
+          <ModifyFlag>1</ModifyFlag>
+        </Timer>
+        <Timer>
+          <TMIndex>13</TMIndex>
+          <PresetValue>40</PresetValue>
+          <TimeBase>2</TimeBase>
+          <TimeType>0</TimeType>
+          <ModifyFlag>1</ModifyFlag>
+        </Timer>
+        <Timer>
+          <TMIndex>14</TMIndex>
+          <PresetValue>5</PresetValue>
+          <TimeBase>2</TimeBase>
+          <TimeType>0</TimeType>
+          <ModifyFlag>1</ModifyFlag>
+        </Timer>
+        <Timer>
+          <TMIndex>15</TMIndex>
+          <PresetValue>20</PresetValue>
+          <TimeBase>2</TimeBase>
+          <TimeType>0</TimeType>
+          <ModifyFlag>1</ModifyFlag>
+        </Timer>
+        <Timer>
+          <TMIndex>16</TMIndex>
+          <PresetValue>2</PresetValue>
+          <TimeBase>3</TimeBase>
+          <TimeType>0</TimeType>
+          <ModifyFlag>1</ModifyFlag>
+        </Timer>
+        <Timer>
+          <TMIndex>18</TMIndex>
+          <PresetValue>15</PresetValue>
+          <TimeBase>2</TimeBase>
+          <TimeType>0</TimeType>
+          <ModifyFlag>1</ModifyFlag>
+        </Timer>
+        <Timer>
+          <TMIndex>19</TMIndex>
+          <PresetValue>30</PresetValue>
+          <TimeBase>2</TimeBase>
+          <TimeType>0</TimeType>
+          <ModifyFlag>1</ModifyFlag>
+        </Timer>
+        <Timer>
+          <TMIndex>21</TMIndex>
+          <PresetValue>30</PresetValue>
+          <TimeBase>2</TimeBase>
+          <TimeType>0</TimeType>
+          <ModifyFlag>1</ModifyFlag>
+        </Timer>
+        <Timer>
+          <TMIndex>22</TMIndex>
+          <PresetValue>20</PresetValue>
+          <TimeBase>2</TimeBase>
+          <TimeType>0</TimeType>
+          <ModifyFlag>1</ModifyFlag>
+        </Timer>
+        <Timer>
+          <TMIndex>24</TMIndex>
+          <PresetValue>20</PresetValue>
+          <TimeBase>2</TimeBase>
+          <TimeType>0</TimeType>
+          <ModifyFlag>1</ModifyFlag>
+        </Timer>
+        <Timer>
+          <TMIndex>25</TMIndex>
+          <PresetValue>5</PresetValue>
+          <TimeBase>2</TimeBase>
+          <TimeType>0</TimeType>
+          <ModifyFlag>1</ModifyFlag>
+        </Timer>
+        <Timer>
+          <TMIndex>26</TMIndex>
+          <PresetValue>5</PresetValue>
+          <TimeBase>2</TimeBase>
+          <TimeType>0</TimeType>
+          <ModifyFlag>1</ModifyFlag>
+        </Timer>
+        <Timer>
+          <TMIndex>27</TMIndex>
+          <PresetValue>15</PresetValue>
+          <TimeBase>2</TimeBase>
+          <TimeType>0</TimeType>
+          <ModifyFlag>1</ModifyFlag>
+        </Timer>
+        <Timer>
+          <TMIndex>28</TMIndex>
+          <PresetValue>30</PresetValue>
+          <TimeBase>2</TimeBase>
+          <TimeType>0</TimeType>
+          <ModifyFlag>1</ModifyFlag>
+        </Timer>
+        <Timer>
+          <TMIndex>29</TMIndex>
+          <PresetValue>5</PresetValue>
+          <TimeBase>2</TimeBase>
+          <TimeType>0</TimeType>
+          <ModifyFlag>1</ModifyFlag>
+        </Timer>
+        <Timer>
+          <TMIndex>30</TMIndex>
+          <PresetValue>20</PresetValue>
+          <TimeBase>2</TimeBase>
+          <TimeType>0</TimeType>
+          <ModifyFlag>1</ModifyFlag>
+        </Timer>
+        <Timer>
+          <TMIndex>31</TMIndex>
+          <PresetValue>30</PresetValue>
+          <TimeBase>2</TimeBase>
+          <TimeType>0</TimeType>
+          <ModifyFlag>1</ModifyFlag>
+        </Timer>
+        <Timer>
+          <TMIndex>32</TMIndex>
+          <PresetValue>30</PresetValue>
+          <TimeBase>2</TimeBase>
+          <TimeType>0</TimeType>
+          <ModifyFlag>1</ModifyFlag>
+        </Timer>
+        <Timer>
+          <TMIndex>33</TMIndex>
+          <PresetValue>30</PresetValue>
+          <TimeBase>2</TimeBase>
+          <TimeType>0</TimeType>
+          <ModifyFlag>1</ModifyFlag>
+        </Timer>
+        <Timer>
+          <TMIndex>34</TMIndex>
+          <PresetValue>60</PresetValue>
+          <TimeBase>2</TimeBase>
+          <TimeType>0</TimeType>
+          <ModifyFlag>1</ModifyFlag>
+        </Timer>
+        <Timer>
+          <TMIndex>35</TMIndex>
+          <PresetValue>30</PresetValue>
+          <TimeBase>2</TimeBase>
+          <TimeType>0</TimeType>
+          <ModifyFlag>1</ModifyFlag>
+        </Timer>
+        <Timer>
+          <TMIndex>2</TMIndex>
+          <PresetValue>10</PresetValue>
+          <TimeBase>2</TimeBase>
+          <TimeType>0</TimeType>
+          <ModifyFlag>1</ModifyFlag>
+        </Timer>
+        <Timer>
+          <TMIndex>3</TMIndex>
+          <PresetValue>5</PresetValue>
+          <TimeBase>2</TimeBase>
+          <TimeType>0</TimeType>
+          <ModifyFlag>1</ModifyFlag>
+        </Timer>
+        <BaseDigInput>
+          <BDI12Filter>0</BDI12Filter>
+          <BDI3Filter>16777215</BDI3Filter>
+          <BDICapture>0</BDICapture>
+          <BDIRunStop>0</BDIRunStop>
+          <BDINumInputs>24</BDINumInputs>
+          <BDIIsDedicated>0</BDIIsDedicated>
+        </BaseDigInput>
+        <BaseDigOutput>
+          <BDONumOutputs>16</BDONumOutputs>
+          <BDOOutputStat>0</BDOOutputStat>
+          <BDOIsDedicated>0</BDOIsDedicated>
+        </BaseDigOutput>
+        <BaseAnalogInput>
+          <BAINumInputs>2</BAINumInputs>
+          <BAIPrecision>0</BAIPrecision>
+        </BaseAnalogInput>
+        <ExpansionModule>
+          <ExpModulePartNumber>TM2DDI32DK</ExpModulePartNumber>
+          <ExpModuleType>49408</ExpModuleType>
+          <ExpModuleNumInputs>32</ExpModuleNumInputs>
+          <ExpModuleNumOutputs>0</ExpModuleNumOutputs>
+          <ExpModuleKind>0</ExpModuleKind>
+          <ExpModuleIndex>1</ExpModuleIndex>
+        </ExpansionModule>
+        <ExpansionModule>
+          <ExpModulePartNumber>TM2DDO32TK</ExpModulePartNumber>
+          <ExpModuleType>49537</ExpModuleType>
+          <ExpModuleNumInputs>0</ExpModuleNumInputs>
+          <ExpModuleNumOutputs>32</ExpModuleNumOutputs>
+          <ExpModuleKind>0</ExpModuleKind>
+          <ExpModuleIndex>2</ExpModuleIndex>
+        </ExpansionModule>
+        <CommObj>
+          <CmDeviceRemote>0</CmDeviceRemote>
+          <CmDeviceTypeRemote>0</CmDeviceTypeRemote>
+          <CmIndex>0</CmIndex>
+          <CmPort1Address>1</CmPort1Address>
+          <CmPort1LnCfg>0</CmPort1LnCfg>
+          <CmPort1Protocol>1</CmPort1Protocol>
+          <CmPort1MbTimeout>1</CmPort1MbTimeout>
+          <CmPort1RespTimeout>1</CmPort1RespTimeout>
+          <CmPort1EndOfFrame>10</CmPort1EndOfFrame>
+          <CmPort2Address>1</CmPort2Address>
+          <CmPort2LnCfg>180</CmPort2LnCfg>
+          <CmPort2Protocol>0</CmPort2Protocol>
+          <CmPort2MbTimeout>10</CmPort2MbTimeout>
+          <CmPort2RespTimeout>10</CmPort2RespTimeout>
+          <CmPort2EndOfFrame>10</CmPort2EndOfFrame>
+          <CmPort1StartOfFrame>0</CmPort1StartOfFrame>
+          <CmPort1SecondEndOfFrame>0</CmPort1SecondEndOfFrame>
+          <CmPort1SizeASCIIFrame>0</CmPort1SizeASCIIFrame>
+          <CmPort2StartOfFrame>0</CmPort2StartOfFrame>
+          <CmPort2SecondEndOfFrame>0</CmPort2SecondEndOfFrame>
+          <CmPort2SizeASCIIFrame>0</CmPort2SizeASCIIFrame>
+          <CmFlagSilenceUsed>0</CmFlagSilenceUsed>
+          <CmAsciiEofTxEnabler>0</CmAsciiEofTxEnabler>
+          <CmPunitLnCfg>132</CmPunitLnCfg>
+          <CmPunitMbTimeout>20</CmPunitMbTimeout>
+        </CommObj>
+        <Ethernet>
+          <EthernetDefaultIP>0</EthernetDefaultIP>
+          <EthernetIP>192.168.0.15</EthernetIP>
+          <EthernetSubMask>255.255.255.0</EthernetSubMask>
+          <EthernetGateway>192.168.0.10</EthernetGateway>
+          <EthernetWantMarkedIP>0</EthernetWantMarkedIP>
+          <EthernetIdleTime>10</EthernetIdleTime>
+          <EthernetNumSlave>0</EthernetNumSlave>
+        </Ethernet>
+      </SwObjList>
+      <MacCfgList>
+      </MacCfgList>
+    </Resources>
+    <Program>
+      <Section SType="0" Display="1" SectionNum="1">
+        <ListInstruction>LD    %I0.1.19</ListInstruction>
+        <ListInstruction>ANDR  %M152</ListInstruction>
+        <ListInstruction>OR    %Q0.2.4</ListInstruction>
+        <ListInstruction>ORR   %M141</ListInstruction>
+        <ListInstruction>ANDN  %M158</ListInstruction>
+        <ListInstruction>ST    %Q0.2.4</ListInstruction>
+        <ListInstruction>BLK   %TM30</ListInstruction>
+        <ListInstruction>LD    %Q0.2.4</ListInstruction>
+        <ListInstruction>IN</ListInstruction>
+        <ListInstruction>OUT_BLK</ListInstruction>
+        <ListInstruction>LD    Q</ListInstruction>
+        <ListInstruction>ST    %M158</ListInstruction>
+        <ListInstruction>END_BLK</ListInstruction>
+        <ListInstruction>BLK   %TM3</ListInstruction>
+        <ListInstruction>LD    %I0.0.15</ListInstruction>
+        <ListInstruction>AND   %M20</ListInstruction>
+        <ListInstruction>ANDN  %M150</ListInstruction>
+        <ListInstruction>IN</ListInstruction>
+        <ListInstruction>OUT_BLK</ListInstruction>
+        <ListInstruction>LD    Q</ListInstruction>
+        <ListInstruction>ST    %M148</ListInstruction>
+        <ListInstruction>END_BLK</ListInstruction>
+        <ListInstruction>LDR   %M148</ListInstruction>
+        <ListInstruction>OR    %M150</ListInstruction>
+        <ListInstruction>ANDN  %I0.0.22</ListInstruction>
+        <ListInstruction>AND   %I0.0.0</ListInstruction>
+        <ListInstruction>ANDN  %M155</ListInstruction>
+        <ListInstruction>AND   %M20</ListInstruction>
+        <ListInstruction>ST    %M150</ListInstruction>
+        <ListInstruction>LDR   %M150</ListInstruction>
+        <ListInstruction>OR    %M151</ListInstruction>
+        <ListInstruction>ANDN  %M152</ListInstruction>
+        <ListInstruction>AND   %M20</ListInstruction>
+        <ListInstruction>ST    %M151</ListInstruction>
+        <ListInstruction>BLK   %TM24</ListInstruction>
+        <ListInstruction>LD    %M151</ListInstruction>
+        <ListInstruction>AND   %I0.0.6</ListInstruction>
+        <ListInstruction>OR    %M152</ListInstruction>
+        <ListInstruction>ANDN  %M153</ListInstruction>
+        <ListInstruction>AND   %M20</ListInstruction>
+        <ListInstruction>AND   %M160</ListInstruction>
+        <ListInstruction>IN</ListInstruction>
+        <ListInstruction>OUT_BLK</ListInstruction>
+        <ListInstruction>LD    Q</ListInstruction>
+        <ListInstruction>ST    %M152</ListInstruction>
+        <ListInstruction>END_BLK</ListInstruction>
+        <ListInstruction>(* AWALNYA ADA 1.19 NC *)</ListInstruction>
+        <ListInstruction>BLK   %TM11</ListInstruction>
+        <ListInstruction>LD    %M152</ListInstruction>
+        <ListInstruction>ANDN  %M46</ListInstruction>
+        <ListInstruction>OR    %M153</ListInstruction>
+        <ListInstruction>IN</ListInstruction>
+        <ListInstruction>OUT_BLK</ListInstruction>
+        <ListInstruction>LD    Q</ListInstruction>
+        <ListInstruction>ANDN  %M154</ListInstruction>
+        <ListInstruction>AND   %M20</ListInstruction>
+        <ListInstruction>ST    %M153</ListInstruction>
+        <ListInstruction>END_BLK</ListInstruction>
+        <ListInstruction>LDR   %M152</ListInstruction>
+        <ListInstruction>OR    %M46</ListInstruction>
+        <ListInstruction>ANDN  %I0.1.19</ListInstruction>
+        <ListInstruction>AND   %M20</ListInstruction>
+        <ListInstruction>ST    %M46</ListInstruction>
+        <ListInstruction>BLK   %TM8</ListInstruction>
+        <ListInstruction>LD    %M153</ListInstruction>
+        <ListInstruction>ANDN  %I0.0.16</ListInstruction>
+        <ListInstruction>OR    %M154</ListInstruction>
+        <ListInstruction>AND   %M20</ListInstruction>
+        <ListInstruction>ANDN  %M155</ListInstruction>
+        <ListInstruction>IN</ListInstruction>
+        <ListInstruction>OUT_BLK</ListInstruction>
+        <ListInstruction>LD    Q</ListInstruction>
+        <ListInstruction>ANDN  %M215</ListInstruction>
+        <ListInstruction>ST    %M154</ListInstruction>
+        <ListInstruction>END_BLK</ListInstruction>
+        <ListInstruction>BLK   %TM14</ListInstruction>
+        <ListInstruction>LD    %M154</ListInstruction>
+        <ListInstruction>AND   %I0.0.7</ListInstruction>
+        <ListInstruction>ANDN  %I0.0.15</ListInstruction>
+        <ListInstruction>IN</ListInstruction>
+        <ListInstruction>OUT_BLK</ListInstruction>
+        <ListInstruction>LD    Q</ListInstruction>
+        <ListInstruction>ST    %M155</ListInstruction>
+        <ListInstruction>END_BLK</ListInstruction>
+        <ListInstruction>BLK   %TM25</ListInstruction>
+        <ListInstruction>LD    %I0.0.16</ListInstruction>
+        <ListInstruction>IN</ListInstruction>
+        <ListInstruction>OUT_BLK</ListInstruction>
+        <ListInstruction>LD    Q</ListInstruction>
+        <ListInstruction>ST    %M178</ListInstruction>
+        <ListInstruction>END_BLK</ListInstruction>
+        <ListInstruction>LD    %M20</ListInstruction>
+        <ListInstruction>ANDR  %M178</ListInstruction>
+        <ListInstruction>OR    %M170</ListInstruction>
+        <ListInstruction>ANDN  %I0.0.22</ListInstruction>
+        <ListInstruction>AND   %I0.0.0</ListInstruction>
+        <ListInstruction>ANDN  %M175</ListInstruction>
+        <ListInstruction>ANDN  %M215</ListInstruction>
+        <ListInstruction>ST    %M170</ListInstruction>
+        <ListInstruction>BLK   %TM26</ListInstruction>
+        <ListInstruction>LD    %M170</ListInstruction>
+        <ListInstruction>ANDN  %I0.0.17</ListInstruction>
+        <ListInstruction>ANDN  %I0.0.18</ListInstruction>
+        <ListInstruction>IN</ListInstruction>
+        <ListInstruction>OUT_BLK</ListInstruction>
+        <ListInstruction>LD    Q</ListInstruction>
+        <ListInstruction>MPS</ListInstruction>
+        <ListInstruction>ANDN  %M172</ListInstruction>
+        <ListInstruction>ANDN  %M173</ListInstruction>
+        <ListInstruction>ST    %M145</ListInstruction>
+        <ListInstruction>MRD</ListInstruction>
+        <ListInstruction>AND   %M162</ListInstruction>
+        <ListInstruction>ANDN  %M176</ListInstruction>
+        <ListInstruction>ST    %M172</ListInstruction>
+        <ListInstruction>MPP</ListInstruction>
+        <ListInstruction>AND(  %M163</ListInstruction>
+        <ListInstruction>OR    %M176</ListInstruction>
+        <ListInstruction>)</ListInstruction>
+        <ListInstruction>ANDN  %M172</ListInstruction>
+        <ListInstruction>ST    %M173</ListInstruction>
+        <ListInstruction>END_BLK</ListInstruction>
+        <ListInstruction>BLK   %TM27</ListInstruction>
+        <ListInstruction>LD    %I0.0.10</ListInstruction>
+        <ListInstruction>OR    %I0.0.8</ListInstruction>
+        <ListInstruction>IN</ListInstruction>
+        <ListInstruction>OUT_BLK</ListInstruction>
+        <ListInstruction>LD    Q</ListInstruction>
+        <ListInstruction>ANDN  %M215</ListInstruction>
+        <ListInstruction>ST    %M175</ListInstruction>
+        <ListInstruction>END_BLK</ListInstruction>
+        <ListInstruction>LD    %I0.0.17</ListInstruction>
+        <ListInstruction>ORN   %I0.1.6</ListInstruction>
+        <ListInstruction>OR    %I0.0.18</ListInstruction>
+        <ListInstruction>ST    %Q0.0.11</ListInstruction>
+        <ListInstruction>LD    %I0.0.17</ListInstruction>
+        <ListInstruction>[ %MW20 := 1 ]</ListInstruction>
+        <ListInstruction>LD    %I0.0.18</ListInstruction>
+        <ListInstruction>[ %MW21 := 1 ]</ListInstruction>
+        <ListInstruction>BLK   %TM28</ListInstruction>
+        <ListInstruction>LD    %M170</ListInstruction>
+        <ListInstruction>ANDN  %I0.0.17</ListInstruction>
+        <ListInstruction>ANDN  %I0.0.18</ListInstruction>
+        <ListInstruction>AND   %M145</ListInstruction>
+        <ListInstruction>OR    %M176</ListInstruction>
+        <ListInstruction>IN</ListInstruction>
+        <ListInstruction>OUT_BLK</ListInstruction>
+        <ListInstruction>LD    Q</ListInstruction>
+        <ListInstruction>ANDN  %M215</ListInstruction>
+        <ListInstruction>ANDN  %M177</ListInstruction>
+        <ListInstruction>ST    %M176</ListInstruction>
+        <ListInstruction>END_BLK</ListInstruction>
+        <ListInstruction>LD    %M176</ListInstruction>
+        <ListInstruction>ANDN  %M170</ListInstruction>
+        <ListInstruction>ST    %M177</ListInstruction>
+        <ListInstruction>LD    %I0.0.21</ListInstruction>
+        <ListInstruction>OR    %M20</ListInstruction>
+        <ListInstruction>ANDN  %M1</ListInstruction>
+        <ListInstruction>ANDN  %I0.0.22</ListInstruction>
+        <ListInstruction>AND   %I0.0.0</ListInstruction>
+        <ListInstruction>AND   %M164</ListInstruction>
+        <ListInstruction>ANDN  %M215</ListInstruction>
+        <ListInstruction>AND   %M81</ListInstruction>
+        <ListInstruction>AND   %M82</ListInstruction>
+        <ListInstruction>ANDN  %M215</ListInstruction>
+        <ListInstruction>AND   %I0.1.6</ListInstruction>
+        <ListInstruction>ST    %M20</ListInstruction>
+        <ListInstruction>ST    %Q0.0.12</ListInstruction>
+        <ListInstruction>LD    %M20</ListInstruction>
+        <ListInstruction>ANDN  %M10</ListInstruction>
+        <ListInstruction>OR    %M2</ListInstruction>
+        <ListInstruction>ST    %Q0.0.8</ListInstruction>
+        <ListInstruction>LD    %I0.0.17</ListInstruction>
+        <ListInstruction>OR    %I0.0.18</ListInstruction>
+        <ListInstruction>AND   %M11</ListInstruction>
+        <ListInstruction>ST    %M10</ListInstruction>
+        <ListInstruction>BLK   %TM2</ListInstruction>
+        <ListInstruction>LD    %I0.0.16</ListInstruction>
+        <ListInstruction>IN</ListInstruction>
+        <ListInstruction>OUT_BLK</ListInstruction>
+        <ListInstruction>LD    Q</ListInstruction>
+        <ListInstruction>ST    %M11</ListInstruction>
+        <ListInstruction>END_BLK</ListInstruction>
+        <ListInstruction>LDN   %I0.0.20</ListInstruction>
+        <ListInstruction>OR    %M0</ListInstruction>
+        <ListInstruction>ANDN  %I0.0.21</ListInstruction>
+        <ListInstruction>ST    %M0</ListInstruction>
+        <ListInstruction>LD    %I0.0.14</ListInstruction>
+        <ListInstruction>OR    %I0.0.16</ListInstruction>
+        <ListInstruction>OR    %I0.0.15</ListInstruction>
+        <ListInstruction>S     %M4</ListInstruction>
+        <ListInstruction>LD    %I0.0.17</ListInstruction>
+        <ListInstruction>R     %M4</ListInstruction>
+        <ListInstruction>LD    %M0</ListInstruction>
+        <ListInstruction>AND(F %I0.0.17</ListInstruction>
+        <ListInstruction>AND   %M4</ListInstruction>
+        <ListInstruction>OR(N  %Q0.0.3</ListInstruction>
+        <ListInstruction>ANDN  %Q0.0.4</ListInstruction>
+        <ListInstruction>ANDN  %Q0.0.5</ListInstruction>
+        <ListInstruction>ANDN  %Q0.0.6</ListInstruction>
+        <ListInstruction>AND   %Q0.0.7</ListInstruction>
+        <ListInstruction>ANDN  %M4</ListInstruction>
+        <ListInstruction>)</ListInstruction>
+        <ListInstruction>)</ListInstruction>
+        <ListInstruction>ST    %M1</ListInstruction>
+        <ListInstruction>BLK   %TM10</ListInstruction>
+        <ListInstruction>LDN   %I0.0.14</ListInstruction>
+        <ListInstruction>AND   %I0.1.13</ListInstruction>
+        <ListInstruction>OR    %M30</ListInstruction>
+        <ListInstruction>IN</ListInstruction>
+        <ListInstruction>OUT_BLK</ListInstruction>
+        <ListInstruction>LD    Q</ListInstruction>
+        <ListInstruction>AND   %M20</ListInstruction>
+        <ListInstruction>ANDN  %M140</ListInstruction>
+        <ListInstruction>ST    %M30</ListInstruction>
+        <ListInstruction>END_BLK</ListInstruction>
+        <ListInstruction>LD    %I0.0.14</ListInstruction>
+        <ListInstruction>AND   %M30</ListInstruction>
+        <ListInstruction>ST    %M140</ListInstruction>
+        <ListInstruction>LD    %M20</ListInstruction>
+        <ListInstruction>AND(  %I0.0.15</ListInstruction>
+        <ListInstruction>OR    %M150</ListInstruction>
+        <ListInstruction>)</ListInstruction>
+        <ListInstruction>ST    %M31</ListInstruction>
+        <ListInstruction>LD    %M20</ListInstruction>
+        <ListInstruction>AND   %M150</ListInstruction>
+        <ListInstruction>AND   %I0.0.12</ListInstruction>
+        <ListInstruction>AND(  %M151</ListInstruction>
+        <ListInstruction>OR    %M32</ListInstruction>
+        <ListInstruction>)</ListInstruction>
+        <ListInstruction>ANDN  %M154</ListInstruction>
+        <ListInstruction>ST    %M32</ListInstruction>
+        <ListInstruction>LD    %M20</ListInstruction>
+        <ListInstruction>AND   %M173</ListInstruction>
+        <ListInstruction>OR    %M33</ListInstruction>
+        <ListInstruction>ANDN  %M175</ListInstruction>
+        <ListInstruction>ST    %M33</ListInstruction>
+        <ListInstruction>LD    %M20</ListInstruction>
+        <ListInstruction>AND   %M172</ListInstruction>
+        <ListInstruction>ST    %M34</ListInstruction>
+        <ListInstruction>LD    %M20</ListInstruction>
+        <ListInstruction>ANDN  %M154</ListInstruction>
+        <ListInstruction>ST    %M35</ListInstruction>
+        <ListInstruction>LDN   %M30</ListInstruction>
+        <ListInstruction>AND   %M20</ListInstruction>
+        <ListInstruction>OR(   %M120</ListInstruction>
+        <ListInstruction>ANDN  %I0.1.6</ListInstruction>
+        <ListInstruction>)</ListInstruction>
+        <ListInstruction>ST    %Q0.0.2</ListInstruction>
+        <ListInstruction>LD    %M31</ListInstruction>
+        <ListInstruction>OR(   %M121</ListInstruction>
+        <ListInstruction>ANDN  %I0.1.6</ListInstruction>
+        <ListInstruction>)</ListInstruction>
+        <ListInstruction>ST    %Q0.0.3</ListInstruction>
+        <ListInstruction>LD    %M32</ListInstruction>
+        <ListInstruction>OR(   %M122</ListInstruction>
+        <ListInstruction>ANDN  %I0.1.6</ListInstruction>
+        <ListInstruction>)</ListInstruction>
+        <ListInstruction>ST    %Q0.0.4</ListInstruction>
+        <ListInstruction>LD    %M33</ListInstruction>
+        <ListInstruction>OR(   %M123</ListInstruction>
+        <ListInstruction>ANDN  %I0.1.6</ListInstruction>
+        <ListInstruction>)</ListInstruction>
+        <ListInstruction>ST    %Q0.0.5</ListInstruction>
+        <ListInstruction>LD    %M35</ListInstruction>
+        <ListInstruction>OR(   %M125</ListInstruction>
+        <ListInstruction>ANDN  %I0.1.6</ListInstruction>
+        <ListInstruction>)</ListInstruction>
+        <ListInstruction>ST    %Q0.0.7</ListInstruction>
+        <ListInstruction>LD    %M34</ListInstruction>
+        <ListInstruction>OR    %M2</ListInstruction>
+        <ListInstruction>OR(   %M124</ListInstruction>
+        <ListInstruction>ANDN  %I0.1.6</ListInstruction>
+        <ListInstruction>)</ListInstruction>
+        <ListInstruction>ST    %Q0.0.6</ListInstruction>
+        <ListInstruction>LD    %M215</ListInstruction>
+        <ListInstruction>ST    %Q0.0.10</ListInstruction>
+        <ListInstruction>BLK   %TM15</ListInstruction>
+        <ListInstruction>LDN   %I0.1.16</ListInstruction>
+        <ListInstruction>OR(N  %I0.1.13</ListInstruction>
+        <ListInstruction>ANDN  %I0.0.14</ListInstruction>
+        <ListInstruction>AND   %M20</ListInstruction>
+        <ListInstruction>)</ListInstruction>
+        <ListInstruction>IN</ListInstruction>
+        <ListInstruction>OUT_BLK</ListInstruction>
+        <ListInstruction>LD    Q</ListInstruction>
+        <ListInstruction>ANDN  %M215</ListInstruction>
+        <ListInstruction>ST    %Q0.0.13</ListInstruction>
+        <ListInstruction>END_BLK</ListInstruction>
+        <ListInstruction>LD    %I0.0.19</ListInstruction>
+        <ListInstruction>OR    %Q0.0.14</ListInstruction>
+        <ListInstruction>ANDN  %I0.0.22</ListInstruction>
+        <ListInstruction>AND   %I0.0.0</ListInstruction>
+        <ListInstruction>ANDN  %M215</ListInstruction>
+        <ListInstruction>ST    %Q0.0.14</ListInstruction>
+        <ListInstruction>LD    %I0.0.19</ListInstruction>
+        <ListInstruction>OR    %M5</ListInstruction>
+        <ListInstruction>ST    %Q0.2.3</ListInstruction>
+        <ListInstruction>LD    %I0.0.19</ListInstruction>
+        <ListInstruction>OR    %M5</ListInstruction>
+        <ListInstruction>ST    %Q0.2.2</ListInstruction>
+        <ListInstruction>LD    [ %MW182 = 1 ]</ListInstruction>
+        <ListInstruction>ST    %M5</ListInstruction>
+        <ListInstruction>BLK   %TM1</ListInstruction>
+        <ListInstruction>LD    %M5</ListInstruction>
+        <ListInstruction>IN</ListInstruction>
+        <ListInstruction>OUT_BLK</ListInstruction>
+        <ListInstruction>LD    Q</ListInstruction>
+        <ListInstruction>[ %MW182 := 0 ]</ListInstruction>
+        <ListInstruction>END_BLK</ListInstruction>
+        <ListInstruction>LD    %I0.0.19</ListInstruction>
+        <ListInstruction>OR    %M2</ListInstruction>
+        <ListInstruction>ANDN  %M3</ListInstruction>
+        <ListInstruction>ST    %M2</ListInstruction>
+        <ListInstruction>BLK   %TM0</ListInstruction>
+        <ListInstruction>LD    %M2</ListInstruction>
+        <ListInstruction>IN</ListInstruction>
+        <ListInstruction>OUT_BLK</ListInstruction>
+        <ListInstruction>LD    Q</ListInstruction>
+        <ListInstruction>ST    %M3</ListInstruction>
+        <ListInstruction>END_BLK</ListInstruction>
+        <ListInstruction>LD    %M170</ListInstruction>
+        <ListInstruction>ST    %Q0.0.9</ListInstruction>
+        <ListInstruction>LDR   %M150</ListInstruction>
+        <ListInstruction>ORR   %M142</ListInstruction>
+        <ListInstruction>[ %MW180 := 1 ]</ListInstruction>
+        <ListInstruction>BLK   %TM7</ListInstruction>
+        <ListInstruction>LD    %M150</ListInstruction>
+        <ListInstruction>OR    %M142</ListInstruction>
+        <ListInstruction>IN</ListInstruction>
+        <ListInstruction>OUT_BLK</ListInstruction>
+        <ListInstruction>LD    Q</ListInstruction>
+        <ListInstruction>[ %MW180 := 0 ]</ListInstruction>
+        <ListInstruction>END_BLK</ListInstruction>
+        <ListInstruction>LD    [ %MW181 = 1 ]</ListInstruction>
+        <ListInstruction>OR    1</ListInstruction>
+        <ListInstruction>ST    %M160</ListInstruction>
+        <ListInstruction>LD    [ %MW185 = 1 ]</ListInstruction>
+        <ListInstruction>ST    %M161</ListInstruction>
+        <ListInstruction>LD    %I0.0.22</ListInstruction>
+        <ListInstruction>ORN   %I0.0.0</ListInstruction>
+        <ListInstruction>ORR   %M154</ListInstruction>
+        <ListInstruction>[ %MW181 := 0 ]</ListInstruction>
+        <ListInstruction>LD    [ %MW184 = 1 ]</ListInstruction>
+        <ListInstruction>ST    %M162</ListInstruction>
+        <ListInstruction>LD    [ %MW184 = 2 ]</ListInstruction>
+        <ListInstruction>ST    %M163</ListInstruction>
+        <ListInstruction>LDN   %M170</ListInstruction>
+        <ListInstruction>[ %MW184 := 0 ]</ListInstruction>
+        <ListInstruction>LD    [ %MW186 = 1 ]</ListInstruction>
+        <ListInstruction>OR    1</ListInstruction>
+        <ListInstruction>ST    %M164</ListInstruction>
+        <ListInstruction>LD    %I0.0.18</ListInstruction>
+        <ListInstruction>OR    %M200</ListInstruction>
+        <ListInstruction>ANDN  %I0.0.19</ListInstruction>
+        <ListInstruction>AND   0</ListInstruction>
+        <ListInstruction>ST    %M200</ListInstruction>
+        <ListInstruction>BLK   %TM31</ListInstruction>
+        <ListInstruction>LD    %Q0.0.2</ListInstruction>
+        <ListInstruction>ANDN  %I0.0.2</ListInstruction>
+        <ListInstruction>OR(N  %Q0.0.2</ListInstruction>
+        <ListInstruction>ANDN  %I0.0.3</ListInstruction>
+        <ListInstruction>)</ListInstruction>
+        <ListInstruction>OR    %M201</ListInstruction>
+        <ListInstruction>IN</ListInstruction>
+        <ListInstruction>OUT_BLK</ListInstruction>
+        <ListInstruction>LD    Q</ListInstruction>
+        <ListInstruction>ANDN  %M2</ListInstruction>
+        <ListInstruction>ST    %M201</ListInstruction>
+        <ListInstruction>[ %MW60 := 1 ]</ListInstruction>
+        <ListInstruction>END_BLK</ListInstruction>
+        <ListInstruction>BLK   %TM32</ListInstruction>
+        <ListInstruction>LD    %Q0.0.3</ListInstruction>
+        <ListInstruction>ANDN  %I0.0.4</ListInstruction>
+        <ListInstruction>OR(N  %Q0.0.3</ListInstruction>
+        <ListInstruction>ANDN  %I0.0.5</ListInstruction>
+        <ListInstruction>)</ListInstruction>
+        <ListInstruction>OR    %M202</ListInstruction>
+        <ListInstruction>IN</ListInstruction>
+        <ListInstruction>OUT_BLK</ListInstruction>
+        <ListInstruction>LD    Q</ListInstruction>
+        <ListInstruction>ANDN  %M2</ListInstruction>
+        <ListInstruction>ST    %M202</ListInstruction>
+        <ListInstruction>[ %MW60 := 2 ]</ListInstruction>
+        <ListInstruction>END_BLK</ListInstruction>
+        <ListInstruction>BLK   %TM33</ListInstruction>
+        <ListInstruction>LD    %Q0.0.4</ListInstruction>
+        <ListInstruction>ANDN  %I0.0.6</ListInstruction>
+        <ListInstruction>OR(N  %Q0.0.4</ListInstruction>
+        <ListInstruction>ANDN  %I0.0.7</ListInstruction>
+        <ListInstruction>)</ListInstruction>
+        <ListInstruction>OR    %M203</ListInstruction>
+        <ListInstruction>IN</ListInstruction>
+        <ListInstruction>OUT_BLK</ListInstruction>
+        <ListInstruction>LD    Q</ListInstruction>
+        <ListInstruction>ANDN  %M2</ListInstruction>
+        <ListInstruction>ST    %M203</ListInstruction>
+        <ListInstruction>[ %MW60 := 3 ]</ListInstruction>
+        <ListInstruction>END_BLK</ListInstruction>
+        <ListInstruction>BLK   %TM34</ListInstruction>
+        <ListInstruction>LD    %Q0.0.5</ListInstruction>
+        <ListInstruction>ANDN  %I0.0.8</ListInstruction>
+        <ListInstruction>OR(N  %Q0.0.5</ListInstruction>
+        <ListInstruction>ANDN  %I0.0.9</ListInstruction>
+        <ListInstruction>AND   0</ListInstruction>
+        <ListInstruction>)</ListInstruction>
+        <ListInstruction>OR    %M204</ListInstruction>
+        <ListInstruction>IN</ListInstruction>
+        <ListInstruction>OUT_BLK</ListInstruction>
+        <ListInstruction>LD    Q</ListInstruction>
+        <ListInstruction>ANDN  %M2</ListInstruction>
+        <ListInstruction>ST    %M204</ListInstruction>
+        <ListInstruction>[ %MW60 := 4 ]</ListInstruction>
+        <ListInstruction>END_BLK</ListInstruction>
+        <ListInstruction>BLK   %TM35</ListInstruction>
+        <ListInstruction>LD    %Q0.0.6</ListInstruction>
+        <ListInstruction>ANDN  %I0.0.10</ListInstruction>
+        <ListInstruction>OR(N  %Q0.0.6</ListInstruction>
+        <ListInstruction>ANDN  %I0.0.11</ListInstruction>
+        <ListInstruction>)</ListInstruction>
+        <ListInstruction>OR    %M205</ListInstruction>
+        <ListInstruction>IN</ListInstruction>
+        <ListInstruction>OUT_BLK</ListInstruction>
+        <ListInstruction>LD    Q</ListInstruction>
+        <ListInstruction>ANDN  %M2</ListInstruction>
+        <ListInstruction>ST    %M205</ListInstruction>
+        <ListInstruction>[ %MW60 := 5 ]</ListInstruction>
+        <ListInstruction>END_BLK</ListInstruction>
+        <ListInstruction>BLK   %TM36</ListInstruction>
+        <ListInstruction>LD    %Q0.0.7</ListInstruction>
+        <ListInstruction>ANDN  %I0.0.12</ListInstruction>
+        <ListInstruction>OR(N  %Q0.0.7</ListInstruction>
+        <ListInstruction>ANDN  %I0.0.13</ListInstruction>
+        <ListInstruction>)</ListInstruction>
+        <ListInstruction>OR    %M206</ListInstruction>
+        <ListInstruction>IN</ListInstruction>
+        <ListInstruction>OUT_BLK</ListInstruction>
+        <ListInstruction>LD    Q</ListInstruction>
+        <ListInstruction>ANDN  %M2</ListInstruction>
+        <ListInstruction>ST    %M206</ListInstruction>
+        <ListInstruction>[ %MW60 := 6 ]</ListInstruction>
+        <ListInstruction>END_BLK</ListInstruction>
+        <ListInstruction>BLK   %TM5</ListInstruction>
+        <ListInstruction>LD    %M151</ListInstruction>
+        <ListInstruction>AND   %I0.0.6</ListInstruction>
+        <ListInstruction>OR    %M152</ListInstruction>
+        <ListInstruction>ANDN  %M153</ListInstruction>
+        <ListInstruction>AND   %M20</ListInstruction>
+        <ListInstruction>ANDN  %M160</ListInstruction>
+        <ListInstruction>OR    %M210</ListInstruction>
+        <ListInstruction>IN</ListInstruction>
+        <ListInstruction>OUT_BLK</ListInstruction>
+        <ListInstruction>LD    Q</ListInstruction>
+        <ListInstruction>ANDN  %M2</ListInstruction>
+        <ListInstruction>AND   0</ListInstruction>
+        <ListInstruction>ST    %M210</ListInstruction>
+        <ListInstruction>END_BLK</ListInstruction>
+        <ListInstruction>LD    %M210</ListInstruction>
+        <ListInstruction>[ %MW60 := 16 ]</ListInstruction>
+        <ListInstruction>LD    %M200</ListInstruction>
+        <ListInstruction>OR    %M201</ListInstruction>
+        <ListInstruction>OR    %M202</ListInstruction>
+        <ListInstruction>OR    %M203</ListInstruction>
+        <ListInstruction>OR    %M204</ListInstruction>
+        <ListInstruction>OR    %M205</ListInstruction>
+        <ListInstruction>OR    %M206</ListInstruction>
+        <ListInstruction>ANDN  %I0.0.19</ListInstruction>
+        <ListInstruction>ST    %M214</ListInstruction>
+        <ListInstruction>LDN   %I0.1.15</ListInstruction>
+        <ListInstruction>ORN   %I0.0.1</ListInstruction>
+        <ListInstruction>AND(  %M20</ListInstruction>
+        <ListInstruction>OR    %I0.0.21</ListInstruction>
+        <ListInstruction>)</ListInstruction>
+        <ListInstruction>OR    %M207</ListInstruction>
+        <ListInstruction>ANDN  %M2</ListInstruction>
+        <ListInstruction>AND   %I0.0.23</ListInstruction>
+        <ListInstruction>ST    %M207</ListInstruction>
+        <ListInstruction>[ %MW60 := 9 ]</ListInstruction>
+        <ListInstruction>LDN   %I0.1.14</ListInstruction>
+        <ListInstruction>AND(  %M20</ListInstruction>
+        <ListInstruction>OR    %I0.0.21</ListInstruction>
+        <ListInstruction>)</ListInstruction>
+        <ListInstruction>ANDN  %M2</ListInstruction>
+        <ListInstruction>AND   %I0.0.23</ListInstruction>
+        <ListInstruction>ST    %M208</ListInstruction>
+        <ListInstruction>[ %MW60 := 10 ]</ListInstruction>
+        <ListInstruction>BLK   %TM21</ListInstruction>
+        <ListInstruction>LD    %Q0.0.8</ListInstruction>
+        <ListInstruction>OR    %I0.0.21</ListInstruction>
+        <ListInstruction>AND   %I0.1.7</ListInstruction>
+        <ListInstruction>OR    %M209</ListInstruction>
+        <ListInstruction>IN</ListInstruction>
+        <ListInstruction>OUT_BLK</ListInstruction>
+        <ListInstruction>LD    Q</ListInstruction>
+        <ListInstruction>ANDN  %M2</ListInstruction>
+        <ListInstruction>ST    %M209</ListInstruction>
+        <ListInstruction>[ %MW60 := 15 ]</ListInstruction>
+        <ListInstruction>END_BLK</ListInstruction>
+        <ListInstruction>LD    %M20</ListInstruction>
+        <ListInstruction>OR    %M146</ListInstruction>
+        <ListInstruction>ANDN  %M147</ListInstruction>
+        <ListInstruction>ST    %M146</ListInstruction>
+        <ListInstruction>BLK   %TM4</ListInstruction>
+        <ListInstruction>LDN   %M20</ListInstruction>
+        <ListInstruction>IN</ListInstruction>
+        <ListInstruction>OUT_BLK</ListInstruction>
+        <ListInstruction>LD    Q</ListInstruction>
+        <ListInstruction>ST    %M147</ListInstruction>
+        <ListInstruction>END_BLK</ListInstruction>
+        <ListInstruction>LD    %M20</ListInstruction>
+        <ListInstruction>AND   %M146</ListInstruction>
+        <ListInstruction>ANDN  %I0.1.17</ListInstruction>
+        <ListInstruction>OR    %M212</ListInstruction>
+        <ListInstruction>ANDN  %I0.0.19</ListInstruction>
+        <ListInstruction>ST    %M212</ListInstruction>
+        <ListInstruction>[ %MW60 := 17 ]</ListInstruction>
+        <ListInstruction>LD    %M214</ListInstruction>
+        <ListInstruction>OR    %M207</ListInstruction>
+        <ListInstruction>OR    %M208</ListInstruction>
+        <ListInstruction>OR    %M215</ListInstruction>
+        <ListInstruction>OR    %M209</ListInstruction>
+        <ListInstruction>OR    %M213</ListInstruction>
+        <ListInstruction>ANDN  %I0.0.19</ListInstruction>
+        <ListInstruction>ST    %M215</ListInstruction>
+        <ListInstruction>LD    %I0.0.22</ListInstruction>
+        <ListInstruction>ORN   %I0.0.0</ListInstruction>
+        <ListInstruction>OR    %M210</ListInstruction>
+        <ListInstruction>OR    %M212</ListInstruction>
+        <ListInstruction>ST    %M213</ListInstruction>
+        <ListInstruction>LDR   %M172</ListInstruction>
+        <ListInstruction>[ %MW92 := %MW92 + 1 ]</ListInstruction>
+        <ListInstruction>LD    %M164</ListInstruction>
+        <ListInstruction>ST    %M81</ListInstruction>
+        <ListInstruction>LD    %I0.1.17</ListInstruction>
+        <ListInstruction>ST    %M82</ListInstruction>
+        <ListInstruction>LD    %M164</ListInstruction>
+        <ListInstruction>AND   %I0.1.17</ListInstruction>
+        <ListInstruction>ST    %M80</ListInstruction>
+        <ListInstruction>LD    %I0.0.22</ListInstruction>
+        <ListInstruction>ORN   %I0.0.0</ListInstruction>
+        <ListInstruction>[ %MW60 := 11 ]</ListInstruction>
+        <ListInstruction>LD    %I0.0.19</ListInstruction>
+        <ListInstruction>[ %MW60 := 0 ]</ListInstruction>
+        <ListInstruction>BLK   %TM18</ListInstruction>
+        <ListInstruction>LD    %M86</ListInstruction>
+        <ListInstruction>IN</ListInstruction>
+        <ListInstruction>OUT_BLK</ListInstruction>
+        <ListInstruction>LD    Q</ListInstruction>
+        <ListInstruction>[ %MW92 := 0 ]</ListInstruction>
+        <ListInstruction>[ %MW93 := 0 ]</ListInstruction>
+        <ListInstruction>END_BLK</ListInstruction>
+        <ListInstruction>LDN   %I0.1.6</ListInstruction>
+        <ListInstruction>ST    %M90</ListInstruction>
+        <ListInstruction>LD    %I0.1.6</ListInstruction>
+        <ListInstruction>ST    %M107</ListInstruction>
+        <ListInstruction>LD    %M100</ListInstruction>
+        <ListInstruction>OR    %M120</ListInstruction>
+        <ListInstruction>ANDN  %M110</ListInstruction>
+        <ListInstruction>ANDN  %I0.1.6</ListInstruction>
+        <ListInstruction>ST    %M120</ListInstruction>
+        <ListInstruction>LD    %M101</ListInstruction>
+        <ListInstruction>OR    %M121</ListInstruction>
+        <ListInstruction>ANDN  %M111</ListInstruction>
+        <ListInstruction>ANDN  %I0.1.6</ListInstruction>
+        <ListInstruction>ST    %M121</ListInstruction>
+        <ListInstruction>LD    %M102</ListInstruction>
+        <ListInstruction>OR    %M122</ListInstruction>
+        <ListInstruction>ANDN  %M112</ListInstruction>
+        <ListInstruction>ANDN  %I0.1.6</ListInstruction>
+        <ListInstruction>ST    %M122</ListInstruction>
+        <ListInstruction>LD    %M103</ListInstruction>
+        <ListInstruction>OR    %M123</ListInstruction>
+        <ListInstruction>ANDN  %M113</ListInstruction>
+        <ListInstruction>ANDN  %I0.1.6</ListInstruction>
+        <ListInstruction>ST    %M123</ListInstruction>
+        <ListInstruction>LD    %M104</ListInstruction>
+        <ListInstruction>OR    %M124</ListInstruction>
+        <ListInstruction>ANDN  %M114</ListInstruction>
+        <ListInstruction>ANDN  %I0.1.6</ListInstruction>
+        <ListInstruction>ST    %M124</ListInstruction>
+        <ListInstruction>LD    %M105</ListInstruction>
+        <ListInstruction>OR    %M125</ListInstruction>
+        <ListInstruction>ANDN  %M115</ListInstruction>
+        <ListInstruction>ANDN  %I0.1.6</ListInstruction>
+        <ListInstruction>ST    %M125</ListInstruction>
+      </Section>
+      <ProgramValidated>TRUE</ProgramValidated>
+      <ProgramForceValidation>FALSE</ProgramForceValidation>
+    </Program>
+    <Context>
+      <LgthObjTableUsed>0</LgthObjTableUsed>
+      <ConstantConfiguredTag>0</ConstantConfiguredTag>
+      <CounterConfiguredTag>0</CounterConfiguredTag>
+      <DrumConfiguredTag>0</DrumConfiguredTag>
+      <FCounterConfiguredTag>0</FCounterConfiguredTag>
+      <LifoFifoConfiguredTag>0</LifoFifoConfiguredTag>
+      <WordConfiguredTag>0</WordConfiguredTag>
+      <PlsConfiguredTag>0</PlsConfiguredTag>
+      <ShiftBitRegConfiguredTag>0</ShiftBitRegConfiguredTag>
+      <ScheduleBlockConfiguredTag>0</ScheduleBlockConfiguredTag>
+      <StepCounterConfiguredTag>0</StepCounterConfiguredTag>
+      <TimerConfiguredTag>0</TimerConfiguredTag>
+      <VFastCounterConfiguredTag>0</VFastCounterConfiguredTag>
+      <ZoomViewer>ADJUSTED</ZoomViewer>
+      <ZoomEditor>ADJUSTED</ZoomEditor>
+      <ZoomLadder>3</ZoomLadder>
+    </Context>
+    <PrintSettings>
+      <HardwareSettings>
+        <Print>TRUE</Print>
+        <Base>
+          <Reference>TRUE</Reference>
+          <Description>FALSE</Description>
+          <Inputs>FALSE</Inputs>
+          <Outputs>FALSE</Outputs>
+          <OnlyUsed>FALSE</OnlyUsed>
+        </Base>
+        <Modules>
+          <Reference>TRUE</Reference>
+          <Description>FALSE</Description>
+          <ModuleConfig>FALSE</ModuleConfig>
+          <Inputs>FALSE</Inputs>
+          <Outputs>FALSE</Outputs>
+          <OnlyUsed>FALSE</OnlyUsed>
+        </Modules>
+        <PrintSerialPort>FALSE</PrintSerialPort>
+        <PrintModem>FALSE</PrintModem>
+        <PrintEthernet>FALSE</PrintEthernet>
+        <PrintEtherPort>FALSE</PrintEtherPort>
+        <PrintRTC>FALSE</PrintRTC>
+        <PrintCartridge>FALSE</PrintCartridge>
+      </HardwareSettings>
+      <ObjectsSettings>
+        <Print>TRUE</Print>
+        <AllSimple>TRUE</AllSimple>
+        <PrintConstantDouble>FALSE</PrintConstantDouble>
+        <PrintConstantWord>FALSE</PrintConstantWord>
+        <PrintConstantFloat>FALSE</PrintConstantFloat>
+        <PrintMemoryDouble>FALSE</PrintMemoryDouble>
+        <PrintMemoryWord>FALSE</PrintMemoryWord>
+        <PrintMemoryFloat>FALSE</PrintMemoryFloat>
+        <PrintMemoryBit>FALSE</PrintMemoryBit>
+        <AllBlocks>TRUE</AllBlocks>
+        <PrintTimers>FALSE</PrintTimers>
+        <PrintCounters>FALSE</PrintCounters>
+        <PrintFastCounter>FALSE</PrintFastCounter>
+        <PrintVeryFastCounter>FALSE</PrintVeryFastCounter>
+        <PrintSchedulerBlock>FALSE</PrintSchedulerBlock>
+        <PrintDrums>FALSE</PrintDrums>
+        <PrintPID>FALSE</PrintPID>
+        <PrintPLSPWM>FALSE</PrintPLSPWM>
+        <PrintLIFOFIFO>FALSE</PrintLIFOFIFO>
+        <AllExterns>TRUE</AllExterns>
+        <PrintMacroComm>FALSE</PrintMacroComm>
+        <PrintMacroDrive>FALSE</PrintMacroDrive>
+        <PrintMacroTesys>FALSE</PrintMacroTesys>
+        <PrintMacroOtb>FALSE</PrintMacroOtb>
+        <PrintObjectsOnlyUsed>TRUE</PrintObjectsOnlyUsed>
+        <PrintObjectsIndicateMax>FALSE</PrintObjectsIndicateMax>
+      </ObjectsSettings>
+      <MemoryReportSettings>
+        <Print>TRUE</Print>
+        <PrintMemStat>TRUE</PrintMemStat>
+        <PrintMemAlloc>TRUE</PrintMemAlloc>
+      </MemoryReportSettings>
+      <ApplicationSettings>
+        <Print>TRUE</Print>
+      </ApplicationSettings>
+      <ProgramSettings>
+        <Print>TRUE</Print>
+        <ProgramAllSectionsToList>FALSE</ProgramAllSectionsToList>
+        <ProgramSectionRange>0</ProgramSectionRange>
+        <ProgramSectionStart>1</ProgramSectionStart>
+        <ProgramSectionEnd>9999</ProgramSectionEnd>
+        <ProgramLinesRungsRange>0</ProgramLinesRungsRange>
+        <ProgramLinesRungsStart>0</ProgramLinesRungsStart>
+        <ProgramLinesRungsEnd>9999</ProgramLinesRungsEnd>
+        <PrintProgramLadder>
+          <ProgramRange>0</ProgramRange>
+          <ProgramStart>0</ProgramStart>
+          <ProgramEnd>9999</ProgramEnd>
+          <ProgramAddresses>FALSE</ProgramAddresses>
+          <ProgramSymbols>FALSE</ProgramSymbols>
+          <ProgramAddrSymb>TRUE</ProgramAddrSymb>
+          <ProgramEntireAddress>TRUE</ProgramEntireAddress>
+          <ProgramInfo>FALSE</ProgramInfo>
+        </PrintProgramLadder>
+        <PrintProgramList>
+          <ProgramRange>0</ProgramRange>
+          <ProgramStart>0</ProgramStart>
+          <ProgramEnd>9999</ProgramEnd>
+          <ProgramAddresses>TRUE</ProgramAddresses>
+          <ProgramSymbols>FALSE</ProgramSymbols>
+          <ProgramInfo>FALSE</ProgramInfo>
+          <ProgramRealMacroCode>FALSE</ProgramRealMacroCode>
+        </PrintProgramList>
+      </ProgramSettings>
+      <SymbolsSettings>
+        <Print>TRUE</Print>
+        <PrintSortOrder>1</PrintSortOrder>
+      </SymbolsSettings>
+      <CrossRef>
+        <Print>TRUE</Print>
+        <AllCrossRef>TRUE</AllCrossRef>
+        <CrossRefElements>0</CrossRefElements>
+        <CrossRefSort>0</CrossRefSort>
+        <CrossRefAllSection>FALSE</CrossRefAllSection>
+        <CrossRefRangeSection>FALSE</CrossRefRangeSection>
+        <CrossRefOneSection>FALSE</CrossRefOneSection>
+        <CrossRefFirstAsapSection>1</CrossRefFirstAsapSection>
+        <CrossRefLastAsapSection>9999</CrossRefLastAsapSection>
+        <CrossRefAllLinesRungs>FALSE</CrossRefAllLinesRungs>
+        <CrossRefFirstAsapLineRung>1</CrossRefFirstAsapLineRung>
+        <CrossRefLastAsapLineRung>9999</CrossRefLastAsapLineRung>
+      </CrossRef>
+      <Behavior>
+        <Print>TRUE</Print>
+        <BehaviorFunctionaLevels>TRUE</BehaviorFunctionaLevels>
+        <BehaviorScanMode>TRUE</BehaviorScanMode>
+        <BehaviorStart>TRUE</BehaviorStart>
+        <BehaviorAutomaticSave>TRUE</BehaviorAutomaticSave>
+      </Behavior>
+      <AnimTable>
+        <Print>TRUE</Print>
+      </AnimTable>
+      <RootNode>
+        <RootNodeTwido>TRUE</RootNodeTwido>
+        <RootNodeConfiguration>TRUE</RootNodeConfiguration>
+        <RootNodeProgram>TRUE</RootNodeProgram>
+      </RootNode>
+    </PrintSettings>
+    <TwidoDisconnection>
+      <AutomatedBackup>TRUE</AutomatedBackup>
+    </TwidoDisconnection>
+  </TwidoApplication>
+
+
